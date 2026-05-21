@@ -43,3 +43,10 @@ Python, pandas, numpy, scikit-learn, matplotlib, seaborn
 - `PT Retention.ipynb` — full analysis notebook
 - `Exploratory_Graph.png` — exploratory charts
 - `Feature_Importance_Graph.png` — feature importance visualization
+
+## References
+- Glomstad, M., Sorby, I. D., Holt, T., & Bjørkly, S. (2023). Client predictors of therapy dropout in a primary care setting: A prospective cohort study. *BMC Psychiatry*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10207790/
+- Gustavson, K., Røysamb, E., von Soest, T., Mathiesen, K. S., & Karevold, E. (2012). Attrition and generalizability in longitudinal studies. *BMC Research Notes*. https://doi.org/10.1186/1756-0500-5-1
+- Melanie McGovern, Joar Øveraas Halvorsen, Marte Svarver Ørstavik, Bård Dyrdal, & Stål Bjørkly. (2024). Who will stay and who will go? Identifying risk factors for psychotherapy dropout. *Counselling and Psychotherapy Research*. https://doi.org/10.1002/capr.12783
+- Ribisl, K. M., Walton, M. A., Mowbray, C. T., Luke, D. A., Davidson, W. S., & Bootsmiller, B. J. (1996). Minimizing participant attrition in panel studies through the use of effective retention and tracking strategies: Review and recommendations. *Evaluation and Program Planning, 19*(1), 1–25.
+- Swift, J. K., & Greenberg, R. P. (2012). Premature discontinuation in adult psychotherapy: A meta-analysis. *Journal of Consulting and Clinical Psychology, 80*(4), 547–559. https://doi.org/10.1037/a0028226
