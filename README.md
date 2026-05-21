@@ -40,6 +40,6 @@ published retention literature.
 Python, pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ## Files
-- `dropout_prediction.ipynb` — full analysis notebook
-- `dropout_exploration.png` — exploratory charts
-- `feature_importance.png` — feature importance visualization
+- `PT Retention.ipynb` — full analysis notebook
+- `Exploratory_Graph.png` — exploratory charts
+- `Feature_Importance_Graph.png` — feature importance visualization
