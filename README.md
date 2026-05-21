@@ -1,4 +1,4 @@
-# Predicting Participant Dropout in Longitudinal Research Studies
+# Predicting participant dropout in longitudinal research studies
 
 ## Overview
 Participant dropout is one of the most costly challenges in longitudinal research. 
@@ -30,7 +30,7 @@ Logistic regression trained on 80% of data, tested on held-out 20%.
 - Dropout Recall: 61%
 - F1-score: 0.75
 
-## Key Finding
+## Key finding
 Sessions completed was the strongest predictor of dropout (importance: 1.104), 
 followed by employment status (0.381). Unemployed and student participants 
 dropped out at higher rates than employed participants, consistent with 
